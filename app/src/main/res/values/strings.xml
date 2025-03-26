@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="perfil">Este es el perfil</string>
+    <string name="descPerfil">Desarrollador Android con más de 3 años de experiencia en la creación de aplicaciones móviles robustas y escalables. \nHe trabajado en proyectos que abarcan desde aplicaciones empresariales hasta productos para consumidores. \n\nMi experiencia incluye:
+
+    \n\n<b>Desarrollo de Aplicaciones:</b> Diseño e implementación de aplicaciones Android utilizando Java y Kotlin, asegurando una experiencia de usuario intuitiva y fluida.
+
+    \n\n<b>Integración de API:</b> Trabajo con servicios RESTful y APIs de terceros para la integración de funcionalidades, como autenticación, geolocalización y servicios de pago.
+
+    \n\n<b>Colaboración en Equipo:</b> Participación activa en equipos ágiles, trabajando en colaboración con diseñadores, desarrolladores backend y gerentes de producto para entregar soluciones efectivas.
+
+    \n\n<b>Pruebas y Depuración:</b> Implementación de pruebas unitarias y funcionales para garantizar la calidad del software, así como experiencia en la identificación y resolución de errores.
+
+    \n\n<b>Actualización de Aplicaciones:</b> Mantenimiento y actualización de aplicaciones existentes, asegurando su compatibilidad con las últimas versiones de Android y mejoras de rendimiento.</string>
+</resources>
